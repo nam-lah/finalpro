@@ -1,0 +1,12 @@
+{
+  "name": "project-lol",
+  "version": "1.0.0",
+  "description": "my udemy project",
+  "main": "index.js",
+  "scripts": {
+      "start":"server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nam lah",
+  "license": "ISC"
+}
